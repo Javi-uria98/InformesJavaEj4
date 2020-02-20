@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JAREmpresas">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAREmpresas</output-path>
+    <root id="archive" name="JAREmpresas.jar">
+      <element id="module-output" name="DataAdapter" />
+    </root>
+  </artifact>
+</component>
